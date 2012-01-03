@@ -1,0 +1,3 @@
+Determine the extended social network of a word. A word's friends
+are those words within a Levenshtein distance of 1, and	its extended network
+encompasses its friends, friend's friends, etc.
